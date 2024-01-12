@@ -1,4 +1,4 @@
-# Headstarter Summer 2023 Company Case - Tech Inubator
+# Headstarter Summer 2023 Tech Inubator Project
 
 ## Project Requirement
 
