@@ -17,3 +17,6 @@ The companies and students should be able to register and edit their profile. Co
 * Firebase Authentication
 
 * Firebase Realtime Database
+
+
+Done by Irene Chang, Melissa and Yared Pena
